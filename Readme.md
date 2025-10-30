@@ -41,4 +41,3 @@ aws eks update-kubeconfig --region eu-central-1 --name myapp-eks-cluster
 kubectl get svc
 ```
 
-# Consul---Service-Mesh
